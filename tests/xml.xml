@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Kipalog</title>
+    <author>Kipalog team</author>
+    <description>Bài viết mới từ Kipalog</description>
+    <link>http://kipalog.com</link>
+    <language>vi</language>
+    <item>
+      <title>Các thủ đoạn cơ bản để dàn bố cục trang với chỉ CSS (flexbox và grid)</title>
+      <author>Mòe</author>
+      <pubDate>Mon, 30 Apr 2018 17:24:16 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Cac-thu-doan-co-ban-de-dan-bo-cuc-trang-voi-chi-CSS--flexbox-va-grid</link>
+      <description>&lt;p&gt;Trước đây việc dàn bố cục trang (layout) chủ yếu dựa vào những công cụ thô sơ thời đồ đá, ví dụ để cho 2 đoạn văn ở 2 bên của trang thì người ta sẽ vẽ 1 cái bảng table gồm 1 hàng 2 ô rồi nhét chữ v...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Engineer và Scientist</title>
+      <author>Thinh Tran</author>
+      <pubDate>Sun, 29 Apr 2018 18:18:48 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Engineer-va-Scientist</link>
+      <description>&lt;p&gt;“I am not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in.”  ― Li...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chuyển đổi data sang định dạng khác khi thay đổi column type trong rails</title>
+      <author>Hieu Nguyen</author>
+      <pubDate>Sun, 29 Apr 2018 10:18:13 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Chuyen-doi-data-sang-dinh-dang-khac-khi-thay-doi-column-type-trong-rails</link>
+      <description>&lt;p&gt;Khi thay đổi column type trong rails bạn thường làm như sau:  ruby   content vốn có type là text  change_column :feedbacks, :content, :binary   Tuy nhiên, việc chuyển đổi datatype như vậy có thể gâ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tui đã xây dựng chức năng “chém gió” cho Quần Cam như thế nào?</title>
+      <author>Cẩm Huỳnh</author>
+      <pubDate>Sun, 29 Apr 2018 07:06:17 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Tui-da-xay-dung-chuc-nang--chem-gio--cho-Quan-Cam-nhu-the-nao</link>
+      <description>&lt;p&gt;Như các bạn đã biết, như các bạn chưa biết, như các bạn đã biết mà giả bộ chưa biết, tuần vừa rồi tui đã làm khuynh đảo làng blog nước nhà bằng cách tung chức năng "chém gió" để thay cho Disqus như...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>some Unity notes</title>
+      <author>An Việt Trung</author>
+      <pubDate>Sun, 29 Apr 2018 05:17:42 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Your-TIL-title-6f1ac764-e673-481f-acf0-be750c82b16d</link>
+      <description>&lt;p&gt;Animation  1. Không animate parent object, chỉ animate child object (local transform)  An Việt Trung 29042018&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Find and Delete the Functional Way</title>
+      <author>Huy Trần</author>
+      <pubDate>Sat, 28 Apr 2018 19:26:08 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Find-and-Delete-the-Functional-Way</link>
+      <description>&lt;p&gt;Let's say, in Elm, you have a model contains a list of objects, like this:  elm  type alias Task = {   name: String,   status: String   }  type alias Model = {   tasks: List Task  }   And you're ma...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SVG và cách dùng thẻ &lt;defs&gt;</title>
+      <author>Minh-Trung Nguyễn</author>
+      <pubDate>Sat, 28 Apr 2018 16:24:01 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/SVG-va-cach-dung-the--defs</link>
+      <description>&lt;p&gt;SVG và cách dùng thẻ  Day 45 TIL  Khi làm việc với SVG và D3.js, thỉnh thoảng ta sẽ gặp từ khóa . Do bản thân từ "defs" không gợi lên ý nghĩa, nên làm ta thấy có chút khó hiểu. Xin được giải thích ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autolayout và lifecycle trong IOS</title>
+      <author>Bùi Khánh Duy</author>
+      <pubDate>Sat, 28 Apr 2018 09:58:01 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Autolayout-va-lifecycle-trong-IOS</link>
+      <description>&lt;p&gt;Autolayout và lifecycle trong IOS   1. Lý thuyết:  Trước hết, mình xin nói về một vài lifecycle trong swift để mọi người nhớ lại. Một câu hỏi phổ biến là khi nào ghi override viewDidLayoutSubviews,...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gọi hàm trong javascript</title>
+      <author>Đào Văn Hùng</author>
+      <pubDate>Sat, 28 Apr 2018 07:04:32 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Goi-ham-trong-javascript</link>
+      <description>&lt;p&gt;Link gốc bài viết tại (Link)  Bài này mình tách ra từ (Link)  Trong JS, dấu () để gọi thực thi hàm.   1. Function Decleration  Function decleration là function được khởi tạo bằng phép gán = ; funct...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Report - trách nhiệm của mỗi người</title>
+      <author>Thiên Hoàng Minh Vũ</author>
+      <pubDate>Fri, 27 Apr 2018 16:16:42 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Report---trach-nhiem-cua-moi-nguoi</link>
+      <description>&lt;p&gt;Trong khi kỳ nghỉ đang cận kề thì chúng tôi gặp phải một tình huống có thể thấy nhiều trong cuộc sống. Đó là việc quản lý dự án báo cáo về các member, trong đó việc thông tin không được chính xác, ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Joel  Spolsky - Thời đại của StackOverflow</title>
+      <author>Minh-Trung Nguyễn</author>
+      <pubDate>Fri, 27 Apr 2018 15:49:55 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Joel--Spolsky---Thoi-dai-cua-StackOverflow</link>
+      <description>&lt;p&gt;Joel Spolsky Thời đại của StackOverflow   Tôi đã gặp rất nhiều người muốn làm kinh doanh chỉ đơn giản vì họ muốn kinh doanh. (Link) Những người đó không quan tâm thứ họ kinh doanh là gì; việc đắp l...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>D3.js &amp; ReactJS: Khi hai ta về một nhà</title>
+      <author>Minh-Trung Nguyễn</author>
+      <pubDate>Fri, 27 Apr 2018 10:35:13 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/D3-js---ReactJS--Khi-hai-ta-ve-mot-nha</link>
+      <description>&lt;p&gt;D3.js &amp; ReactJS: Khi hai ta về một nhà  Day 44 TIL   Tại sao phải nói về D3.js và ReactJS?  Bởi đây là 2 trong số những thư viện phổ biến nhất giúp xây dựng giao diện web:   (Link): thiên về trực q...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kết nối MySql trong PHP</title>
+      <author>Kaii</author>
+      <pubDate>Fri, 27 Apr 2018 08:28:20 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Ket-noi-MySql-trong-PHP</link>
+      <description>&lt;p&gt;1. Sử dụng MYSQLI  a. Giới thiệu:  Mysql cải tiến hay còn gọi là Mysqli là một trong những trình quản lý cơ sở dữ liệu thông dụng nhất từ phiên bản php5.0 trở đi. Các Developer khuyến khích sử dụng...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Smart contracts - Khi niềm tin trở lại (P1: Introdution)</title>
+      <author>Lưu Xuân Trọng</author>
+      <pubDate>Thu, 26 Apr 2018 23:35:33 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Smart-contracts---Khi-niem-tin-tro-lai--P1--Introdution</link>
+      <description>&lt;p&gt;Lời nói đầu  Xin chào các bạn, để tiếp tục loạt bài về blockchain, hôm nay mình xin nói về smart contract và các khái niệm, công cụ xoay quanh Smart contracts trên nền tảng ethereum. Nếu bạn nào ch...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hiểu lầm tai hại của căn dọc (vertical-align) trong CSS</title>
+      <author>Mòe</author>
+      <pubDate>Thu, 26 Apr 2018 17:32:16 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Hieu-lam-tai-hai-cua-can-doc--vertical-align--trong-CSS</link>
+      <description>&lt;p&gt;Khi người ta dùng nó để căn chiều dọc của block element, ví dụ một div, 1 ảnh... và thấy nó không có tác dụng.  Bởi vì nó không sinh ra để căn chiều dọc của div, chỉ dùng để căn dọc inline element,...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Về TCP_NODELAY và TCP Optimization</title>
+      <author>Hoàng Minh Trung</author>
+      <pubDate>Thu, 26 Apr 2018 14:20:00 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Ve-TCP_NODELAY-va-TCP-Optimization</link>
+      <description>&lt;p&gt;Bài viết được dịch từ https://www.extrahop.com/company/blog/2016/tcpnodelaynaglequickackbestpractices/.  Từ bây giờ tôi sẽ chuyển qua dịch thay vì viết blog cho đỡ mệt, không biết có bạn nào muốn j...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Head first: JS chap 10: First Class Function </title>
+      <author>HungHayHo</author>
+      <pubDate>Thu, 26 Apr 2018 10:44:35 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Head-first--JS-chap-10--First-Class-Function</link>
+      <description>&lt;p&gt;Log 1  1. At the beginning of the chapter, the role of function is emphasized and two ways of creating a function are introduced: function declaration and function expression. They seem to have no ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Swift - Closure: Bài 2: CallBack/ Completion (Part 2)</title>
+      <author>Bùi Khánh Duy</author>
+      <pubDate>Thu, 26 Apr 2018 02:26:49 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Swift---Closure--Bai-2--CallBack--Completion--Part-2</link>
+      <description>&lt;p&gt;Swift Closure: Bài 2: CallBack/ Completion (Part 2)  3. Closure with arguments  Dữ liệu của ta thường là các kiểu của Networking service, không phải kiểu đơn giản load file local json như bài 1, mà...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài học đau đớn khi chập chững CSS + Kinh hoàng bài tập Tribute Page trên freecodecamp</title>
+      <author>Mòe</author>
+      <pubDate>Wed, 25 Apr 2018 16:15:03 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Bai-hoc-dau-don-khi-chap-chung-CSS---Kinh-hoang-bai-tap-Tribute-Page-tren-freecodecamp</link>
+      <description>&lt;p&gt;Bài này không nhằm chê freecodecamp, thậm chí còn khen nhé :v  Trong bài có sử dụng sự trợ giúp của các bạn Hồ Xuân Diễn, Robin Huy, Anh Nguyễn, Da Peng, Nguyễn Quốc Đại. :heart: :rose: (no particu...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hashtable in a nutshell - Phần 2</title>
+      <author>Lê Phong Vũ</author>
+      <pubDate>Wed, 25 Apr 2018 09:04:37 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Hashtable-in-a-nutshell---Phan-2</link>
+      <description>&lt;p&gt;Trong (Link), mình đã giới thiệu tới các bạn về hashtable, và một số kiến thức xoay quanh. Trong phần tiếp theo này, mình xin trình bày tiếp tục về kỹ thuật table doubling. Ngoài ra, mình cũng sẽ t...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Load Balancing khó hay dễ</title>
+      <author>huydx</author>
+      <pubDate>Wed, 25 Apr 2018 01:12:31 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Load-Balancing-kho-hay-de</link>
+      <description>&lt;p&gt;Hôm nay tôi có xem một clip khá thú vị nói về Load Balancing  https://www.youtube.com/watch?v=kpvbOzHUakA  Clip thuộc hội thảo ScaleConf, được phát biểu bởi Tyler McMullen, CTO của Fastly (một star...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SASS/SCSS : CSS Preprocessor không thể thiếu cho Frontend Developer. ( phần II )</title>
+      <author>Vinh Trần</author>
+      <pubDate>Tue, 24 Apr 2018 22:10:00 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/SASS-SCSS---CSS-Preprocessor-khong-the-thieu-cho-Frontend-Developer----phan-II-</link>
+      <description>&lt;p&gt;trong phần này, mình sẽ đề cập tới cú pháp và một số tính năng rất cơ bản của SASS mà ai cũng có thể nắm được chỉ sau 15 phút đọc, SASS đương nhiên là có những phần hay hơn, phần đó mình sẽ đề cập ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript - hoisting không áp dụng cho hàm mũi tên</title>
+      <author>Minh-Trung Nguyễn</author>
+      <pubDate>Tue, 24 Apr 2018 16:06:33 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/JavaScript---hoisting-khong-ap-dung-cho-ham-mui-ten</link>
+      <description>&lt;p&gt;JavaScript hoisting không áp dụng cho hàm mũi tên  Day 43:  Một ngày đẹp giời, copy code được code của người khác về hý hửng chạy thấy ngon, nhưng chưa hài lòng vì thấy vẫn dùng khai báo hàm theo E...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> SASS/SCSS :  CSS Preprocessor không thể thiếu cho Frontend Developer. ( phần I )</title>
+      <author>Vinh Trần</author>
+      <pubDate>Tue, 24 Apr 2018 10:39:12 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/SASS-SCSS----CSS-Preprocessor-khong-the-thieu-cho-Frontend-Developer----phan-I-</link>
+      <description>&lt;p&gt;Những khái niệm đầu tiên   Nó là gì ?  Sass là viết tắt của cụm Syntactically Awesome Style Sheets ( Style Sheet có cú pháp ảo diệu , đại loại thế ) được thiết kế ra bởi (Link) và do (Link) lập trì...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chỉ biết HTML CSS có chế được giao diện blog Github không</title>
+      <author>Mòe</author>
+      <pubDate>Tue, 24 Apr 2018 06:51:41 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Chi-biet-HTML-CSS-co-che-duoc-giao-dien-blog-Github-khong</link>
+      <description>&lt;p&gt;Được và rất dễ.  Bắt đầu từ mớ lằng nhằng: blog Github chạy bằng Jekyll, để cài Jekyll phải dính líu đến Ruby và gem, để viết blog Jekyll phải biết Liquid, trong Liquid lại đá tí YAML,... không ai ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Khắc phục: "Failed to load resource: The network connection was lost" trên Safari</title>
+      <author>Nguyễn Thế Huy</author>
+      <pubDate>Tue, 24 Apr 2018 03:27:21 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Khac-phuc---Failed-to-load-resource--The-network-connection-was-lost--tren-Safari</link>
+      <description>&lt;p&gt;Thi thoảng chúng ta sẽ gặp vấn đề khi request ajax trên safari, rõ ràng cái url ta request vẫn sống nhăn răng và mạng thì vẫn đều đều, ấy mà bọn Safari lại báo: "Failed to load resource: The networ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Một số thủ thuật tối ưu ứng dụng React-Native nên biết!</title>
+      <author>Huy Quang</author>
+      <pubDate>Tue, 24 Apr 2018 02:08:24 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Mot-so-thu-thuat-toi-uu-ung-dung-React-Native-nen-biet</link>
+      <description>&lt;p&gt;Nguồn: https://codeburst.io/6simplewaystospeedupyourreactnativeappd5b775ab3f16   1. Sử dụng PureComponent hoặc shouldComponentUpdate  Khác với Component ta vẫn hay dùng, PureComponent trong react k...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cách phân nhánh và chia việc trong nhóm với Git</title>
+      <author>An</author>
+      <pubDate>Mon, 23 Apr 2018 17:06:57 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Cach-phan-nhanh-va-chia-viec-trong-nhom-voi-Git</link>
+      <description>&lt;p&gt;Bài viết gốc được đăng ở (Link)    (Ảnh)  _Icon made by Freepik from (Link)_  Bạn vốn làm việc một mình một cõi, “thầu nguyên con” dự án. Dù phải code sấp mặt nhưng cuộc đời vẫn thật êm xuôi: tốc đ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thêm chức năng phân loại bài viết trên blog Github sau khi xiên xong Jekyll-now</title>
+      <author>Mòe</author>
+      <pubDate>Mon, 23 Apr 2018 16:27:11 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Them-chuc-nang-phan-loai-bai-viet-tren-blog-Github-sau-khi-xien-xong-Jekyll-now</link>
+      <description>&lt;p&gt;Trong hành trình đi xiên đồ của người khác về dùng, không ai không muốn tác giả làm sẵn cho chúng ta tất cả. Có lẽ vì vậy nên repo của Barry Clark (Link) không làm sẵn một chức năng cực cơ bản là c...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tạo blog ngon lành trên Github dù không biết ngôn ngữ Ruby và Liquid, Jekyll</title>
+      <author>Mòe</author>
+      <pubDate>Sun, 22 Apr 2018 16:22:17 +0000</pubDate>
+      <link>http://kipalog.com:80/posts/Tao-blog-ngon-lanh-tren-Github-du-khong-biet-ngon-ngu-Ruby-va-Liquid--Jekyll</link>
+      <description>&lt;p&gt;Bài này không cổ xúy việc học hành không đến nơi đến chốn... :stuck_out_tongue_closed_eyes: Chỉ là dành cho những ai cần lập blog nhưng không phải dân chuyên lập trình, hoặc đang bận mảng khác chưa...&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

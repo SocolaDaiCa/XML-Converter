@@ -1,0 +1,19 @@
+{
+    "name": "socola/xml-converter",
+    "description": "Convert XML to json or object using SimpleXML",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Socola",
+            "email": "tokentien@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":
+    {
+        "psr-4":
+        {
+            "Socola\\": "src/Socola"
+        }
+    }
+}
