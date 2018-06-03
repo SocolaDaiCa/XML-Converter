@@ -5,7 +5,7 @@
  * @Email: TokenTien@gmail.com
  * @Date:   2018-05-02 10:38:55
  * @Last Modified by:   Socola
- * @Last Modified time: 2018-05-02 10:58:31
+ * @Last Modified time: 2018-05-03 22:08:32
  */
 namespace Socola;
 
@@ -24,7 +24,7 @@ class XML
 		}
 		return self::$instances;
 	}
-	public static function fromxml($xml)
+	public static function fromXml($xml)
 	{
 		self::$xml = $xml;
 		return self::getInstances();
@@ -46,6 +46,7 @@ class XML
 	}
 	public static function toJson()
 	{
+		header('Content-Type: application/json');
 		self::$desiredResults = 'json';
 		return self::getInstances();
 	}
